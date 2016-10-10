@@ -1,0 +1,38 @@
+# First dimension is X, the second is Y
+# Field definitions declared in map.yml
+-2:
+    -2: sea
+    -1: sea
+    0: sea
+    1: sea
+    2: sea
+-1:
+    -2: sea
+    -1: sea
+    0: sea
+    1: town
+    2: sea
+0:
+    -2: sea
+    -1: sea
+    0: mountain
+    1: mountain
+    2: sea
+1:
+    -2: sea
+    -1: forest
+    0: forest
+    1: forest
+    2: sea
+2:
+    -2: sea
+    -1: sea
+    0: forest
+    1: forest
+    2: sea
+3:
+    -2: sea
+    -1: sea
+    0: sea
+    1: sea
+    2: sea

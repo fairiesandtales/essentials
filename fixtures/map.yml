@@ -1,0 +1,44 @@
+sea:
+    name:     Sea
+    color:    navy
+    playable: false
+
+town:
+    name:     Town
+    color:    tan
+    playable: true
+
+field:
+    name:     Field
+    color:    yellowgreen
+    playable: true
+
+mountain:
+    name:     Mountain
+    color:    gainsboro
+    playable: true
+
+wall:
+    name:     Wall
+    color:    grey
+    playable: false
+
+river:
+    name:     River
+    color:    cornflower
+    playable: false
+
+bridge:
+    name:     Bridge
+    color:    saddlebrown
+    playable: true
+
+swamp:
+    name:     Swamp
+    color:    seagreen
+    playable: true
+
+forest:
+    name:     Forest
+    color:    forestgreen
+    playable: true

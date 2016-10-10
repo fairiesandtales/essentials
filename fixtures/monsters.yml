@@ -1,0 +1,11 @@
+malarian_mosquitos:
+    name:   Malarian Mosquitos
+    type:   animal
+    health: 5
+    mana:   0
+
+zom_bee:
+    name:   Zom Bee
+    type:   undead
+    health: 10
+    mana:   5

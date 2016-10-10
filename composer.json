@@ -1,0 +1,13 @@
+{
+    "require": {
+        "symfony/yaml": "3.1.*",
+        "symfony/console" : "3.1.*"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^3.1",
+        "phpunit/phpunit": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {"FairiesAndTales\\": "src/"}
+    }
+}
