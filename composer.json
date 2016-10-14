@@ -1,5 +1,19 @@
 {
+    "name": "fairiesandtales/essentials",
+    "description": "An essential package for the glorious game called Fairies & Tales",
+    "version": "0.0.1",
+    "keywords": ["fnt", "config", "admin"],
+    "homepage": "https://fairiesandtales.com",
+    "license": "MIT",
+    "authors": [
+        {"name": "Mikola Péter", "email": "mikopet@gmail.com"}
+    ],
+    "support": {
+        "email": "support@fairiesandtales.com",
+        "source": "https://github.com/fairiesandtales/essentials"
+    },
     "require": {
+        "php": "^5.5",
         "symfony/yaml": "3.1.*",
         "symfony/console" : "3.1.*"
     },
