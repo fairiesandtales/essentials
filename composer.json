@@ -1,7 +1,7 @@
 {
     "name": "fairiesandtales/essentials",
     "description": "An essential package for the glorious game called Fairies & Tales",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "keywords": ["fnt", "config", "admin"],
     "homepage": "https://fairiesandtales.com",
     "license": "MIT",

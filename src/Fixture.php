@@ -12,7 +12,7 @@ class Fixture
      * @param   string  $fixture
      * @return  array
      */
-    private function load($fixture)
+    private static function load($fixture)
     {
         return Yaml::parse(file_get_contents(self::FIXTURE_PATH.$fixture.'.yml'));
     }
@@ -22,7 +22,7 @@ class Fixture
      * @param   array $data
      * @return  bool
      */
-    private function save($fixture, $data)
+    private static function save($fixture, $data)
     {
         return (bool) file_put_contents(self::FIXTURE_PATH.$fixture.'.yml', Yaml::dump($data));
     }
