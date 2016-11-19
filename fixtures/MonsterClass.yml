@@ -1,0 +1,15 @@
+animal:
+    id: 2
+    name: Animal
+human:
+    id: 1
+    name: Human
+mechanical:
+    id: 5
+    name: Mechanical
+orc:
+    id: 3
+    name: Orc
+undead:
+    id: 4
+    name: Undead

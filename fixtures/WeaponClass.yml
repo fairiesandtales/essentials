@@ -1,0 +1,6 @@
+one-handed:
+    id: 1
+    name: One-Handed
+two-handed:
+    id: 2
+    name: Two-Handed

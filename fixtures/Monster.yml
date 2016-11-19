@@ -1,0 +1,110 @@
+malarian_mosquitos:
+    id: 1
+    name: 'Malarian Mosquitos'
+    level: 1
+    health: 5
+    mana: 0
+    damage: 1
+    deviation: 0
+    defense: 0
+    skill: {  }
+    monsterClass: { id: 2, name: Animal }
+zom_bee:
+    id: 2
+    name: 'Zom Bee'
+    level: 5
+    health: 17
+    mana: 0
+    damage: 12
+    deviation: 4
+    defense: 2
+    skill: {  }
+    monsterClass: { id: 4, name: Undead }
+tradesheep:
+    id: 3
+    name: Tradesheep
+    level: 10
+    health: 35
+    mana: 10
+    damage: 18
+    deviation: 2
+    defense: 5
+    skill: {  }
+    monsterClass: { id: 2, name: Animal }
+beard_bird:
+    id: 4
+    name: 'Beard Bird'
+    level: 3
+    health: 11
+    mana: 0
+    damage: 4
+    deviation: 1
+    defense: 1
+    skill: {  }
+    monsterClass: { id: 2, name: Animal }
+dear_deer:
+    id: 5
+    name: 'Dear Deer'
+    level: 4
+    health: 5
+    mana: 0
+    damage: 6
+    deviation: 1
+    defense: 3
+    skill: {  }
+    monsterClass: { id: 2, name: Animal }
+bat_bat:
+    id: 6
+    name: 'Bat Bat'
+    level: 2
+    health: 2
+    mana: 0
+    damage: 2
+    deviation: 1
+    defense: 1
+    skill: {  }
+    monsterClass: { id: 2, name: Animal }
+bat-bot:
+    id: 7
+    name: Bat-Bot
+    level: 30
+    health: 99
+    mana: 20
+    damage: 22
+    deviation: 5
+    defense: 30
+    skill: {  }
+    monsterClass: { id: 5, name: Mechanical }
+mortal_wombat:
+    id: 8
+    name: 'Mortal Wombat'
+    level: 20
+    health: 67
+    mana: 15
+    damage: 19
+    deviation: 2
+    defense: 11
+    skill: {  }
+    monsterClass: { id: 2, name: Animal }
+hound_dog:
+    id: 9
+    name: 'Hound Dog'
+    level: 7
+    health: 11
+    mana: 0
+    damage: 9
+    deviation: 3
+    defense: 7
+    skill: {  }
+    monsterClass: { id: 2, name: Animal }
+wiener-dog:
+    id: 10
+    name: Wiener-Dog
+    level: 2
+    health: 3
+    mana: 0
+    damage: 4
+    deviation: 1
+    defense: 2
+    skill: {  }
+    monsterClass: { id: 2, name: Animal }

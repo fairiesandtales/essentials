@@ -1,0 +1,8 @@
+lath:
+    id: 1
+    name: Lath
+    level: 1
+    damage: 1
+    deviation: 1
+    rarity: 0
+    weaponClass: { id: 1, name: One-Handed }
